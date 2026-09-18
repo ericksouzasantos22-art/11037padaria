@@ -21,7 +21,7 @@ style.css
 
                                  /* ===== Cabeçalho ===== */
                                  .cabecalho {
-                                     background-color: #A0521A;  /* âmbar escuro — texto branco tem contraste AA */
+                                     background-color: #00008B;  /* âmbar escuro — texto branco tem contraste AA */
                                          color: #FFFFFF;
                                              text-align: center;
                                                  padding: 24px 16px;
@@ -37,7 +37,7 @@ style.css
                                                              }
 
                                                              .menu a {
-                                                                 color: #FFFFFF;
+                                                                 color: #006400
                                                                      text-decoration: none;
                                                                          margin: 0 10px;
                                                                              font-weight: bold;
@@ -58,7 +58,7 @@ style.css
                                                                                                  border-left: 4px solid #A0521A;
                                                                                                      margin: 0 0 16px;
                                                                                                          padding: 8px 16px;
-                                                                                                             background-color: #FDEEDC;
+                                                                                                             background-color: #00FF00
                                                                                                              }
 
                                                                                                              /* ===== Cards de destaque (Flexbox) ===== */
@@ -73,7 +73,7 @@ style.css
                                                                                                                                  border: 1px solid #E0C9A6;
                                                                                                                                      border-radius: 8px;
                                                                                                                                          padding: 12px;
-                                                                                                                                             background-color: #FFFFFF;
+                                                                                                                                             background-color: 	#191970;
                                                                                                                                              }
 
                                                                                                                                              .card img {
@@ -109,13 +109,13 @@ style.css
 
                                                                                                                                                                                                      .tabela-cardapio thead {
                                                                                                                                                                                                          background-color: #A0521A;
-                                                                                                                                                                                                             color: #FFFFFF;
+                                                                                                                                                                                                             color: #556b2f
                                                                                                                                                                                                              }
 
                                                                                                                                                                                                              /* ===== Rodapé ===== */
                                                                                                                                                                                                              .rodape {
                                                                                                                                                                                                                  background-color: #3B2A1E;
-                                                                                                                                                                                                                     color: #FFFFFF;
+                                                                                                                                                                                                                     color: #ffa500
                                                                                                                                                                                                                          text-align: center;
                                                                                                                                                                                                                              padding: 16px;
                                                                                                                                                                                                                                  margin-top: 24px;
