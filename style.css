@@ -22,7 +22,7 @@ style.css
                                  /* ===== Cabeçalho ===== */
                                  .cabecalho {
                                      background-color: #8b3f00;  /* âmbar escuro — texto branco tem contraste AA */
-                                         color: #FFFFFF;
+                                         color: #ffffff;
                                              text-align: center;
                                                  padding: 24px 16px;
                                                  }
@@ -37,7 +37,7 @@ style.css
                                                              }
 
                                                              .menu a {
-                                                                 color: #0a0064
+                                                                 color: #005064
                                                                      text-decoration: none;
                                                                          margin: 0 10px;
                                                                              font-weight: bold;
@@ -70,10 +70,10 @@ style.css
 
                                                                                                                          .card {
                                                                                                                              flex: 1 1 250px;       /* cresce, encolhe, largura base 250px */
-                                                                                                                                 border: 1px solid #E0C9A6;
+                                                                                                                                 border: 1px solid #a6dee0;
                                                                                                                                      border-radius: 8px;
                                                                                                                                          padding: 12px;
-                                                                                                                                             background-color: 	#191970;
+                                                                                                                                             background-color: 	#195470;
                                                                                                                                              }
 
                                                                                                                                              .card img {
