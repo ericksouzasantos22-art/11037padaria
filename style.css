@@ -21,7 +21,7 @@ style.css
 
                                  /* ===== Cabeçalho ===== */
                                  .cabecalho {
-                                     background-color: #140653;  /* âmbar escuro — texto branco tem contraste AA */
+                                     background-color: #0e2644;  /* âmbar escuro — texto branco tem contraste AA */
                                          color: #ffffff;
                                              text-align: center;
                                                  padding: 24px 16px;
@@ -37,7 +37,7 @@ style.css
                                                              }
 
                                                              .menu a {
-                                                                 color: #100761
+                                                                 color: #126570
                                                                      text-decoration: none;
                                                                          margin: 0 10px;
                                                                              font-weight: bold;
