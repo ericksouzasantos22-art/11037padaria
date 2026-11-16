@@ -55,10 +55,10 @@ style.css
                                                                                              }
 
                                                                                              blockquote {
-                                                                                                 border-left: 4px solid #1a7aa0;
+                                                                                                 border-left: 4px solid #1a27a0;
                                                                                                      margin: 0 0 16px;
                                                                                                          padding: 8px 16px;
-                                                                                                             background-color: #00ffc3
+                                                                                                             background-color: #232466
                                                                                                              }
 
                                                                                                              /* ===== Cards de destaque (Flexbox) ===== */
@@ -73,7 +73,7 @@ style.css
                                                                                                                                  border: 1px solid #a6dee0;
                                                                                                                                      border-radius: 8px;
                                                                                                                                          padding: 12px;
-                                                                                                                                             background-color: 	#195470;
+                                                                                                                                             background-color: 	#183574;
                                                                                                                                              }
 
                                                                                                                                              .card img {
@@ -102,20 +102,20 @@ style.css
 
                                                                                                                                                                                          .tabela-cardapio th,
                                                                                                                                                                                          .tabela-cardapio td {
-                                                                                                                                                                                             border: 1px solid #E0C9A6;
+                                                                                                                                                                                             border: 1px solid #0b4779;
                                                                                                                                                                                                  padding: 10px;
                                                                                                                                                                                                      text-align: left;
                                                                                                                                                                                                      }
 
                                                                                                                                                                                                      .tabela-cardapio thead {
-                                                                                                                                                                                                         background-color: #A0521A;
-                                                                                                                                                                                                             color: #556b2f
+                                                                                                                                                                                                         background-color: #29125e;
+                                                                                                                                                                                                             color: #2f426b
                                                                                                                                                                                                              }
 
                                                                                                                                                                                                              /* ===== Rodapé ===== */
                                                                                                                                                                                                              .rodape {
-                                                                                                                                                                                                                 background-color: #3B2A1E;
-                                                                                                                                                                                                                     color: #ffa500
+                                                                                                                                                                                                                 background-color: #0f2857;
+                                                                                                                                                                                                                     color: #0026ff
                                                                                                                                                                                                                          text-align: center;
                                                                                                                                                                                                                              padding: 16px;
                                                                                                                                                                                                                                  margin-top: 24px;
