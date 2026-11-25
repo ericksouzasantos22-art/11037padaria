@@ -102,20 +102,20 @@ style.css
 
                                                                                                                                                                                          .tabela-cardapio th,
                                                                                                                                                                                          .tabela-cardapio td {
-                                                                                                                                                                                             border: 1px solid #0b4779;
+                                                                                                                                                                                             border: 1px solid #094d0e;
                                                                                                                                                                                                  padding: 10px;
                                                                                                                                                                                                      text-align: left;
                                                                                                                                                                                                      }
 
                                                                                                                                                                                                      .tabela-cardapio thead {
                                                                                                                                                                                                          background-color: #29125e;
-                                                                                                                                                                                                             color: #2f426b
+                                                                                                                                                                                                             color: #42a10b
                                                                                                                                                                                                              }
 
                                                                                                                                                                                                              /* ===== Rodapé ===== */
                                                                                                                                                                                                              .rodape {
-                                                                                                                                                                                                                 background-color: #0f2857;
-                                                                                                                                                                                                                     color: #0026ff
+                                                                                                                                                                                                                 background-color: #0f5715;
+                                                                                                                                                                                                                     color: #0c4108
                                                                                                                                                                                                                          text-align: center;
                                                                                                                                                                                                                              padding: 16px;
                                                                                                                                                                                                                                  margin-top: 24px;
